@@ -1,0 +1,8 @@
+{
+  "name": "WebBinhChon - Hệ Thống Bình Chọn & Bầu Cử Trực Tuyến",
+  "description": "Nền tảng bình chọn, thăm dò ý kiến và bầu cử trực tuyến minh bạch, hiện đại và bảo mật với biểu đồ kết quả thời gian thực.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
